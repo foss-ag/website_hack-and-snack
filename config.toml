@@ -1,6 +1,6 @@
 baseURL = "https://hackandsnack.de/"
 title = "H4CK4NDSN4CK"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 [Params]
     subtitle = "CYBER CYBER CYBER"
