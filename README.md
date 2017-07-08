@@ -1,8 +1,13 @@
 # Hack And Snack
-This repository contains all the stuff from which hackandsnack.de is generated. The website (HTML files) isn't included here, but got an extra repository on github.
+This repository contains all the stuff from which hackandsnack.de is generated. The website (HTML files) isn't included here, but got an extra repository on Github.
 
 # Preparations
 - First of all [install Hugo](https://gohugo.io/overview/installing/)
+- Check if you have installed the latest version of Hugo (v0.24.1)
+```
+hugo version
+```
+
 - Then clone this repository
 ```
 git clone https://git.foss-ag.de/FOSS_AG/hack_and_snack_website.git
@@ -18,17 +23,15 @@ cd hack_and_snack_website
 cd themes/beautifulhugo
 git submodule update --init --recursive
 ```
-- Go back to the root of the repository, create a `public/` folder and clone the public hack_and_snack repository into it
+- Go back to the root of the repository and clone the public hack_and_snack repository into it. Then rename the hack_and_snack directory to public.
 ```
 cd ../..
-mkdir public/
-cd public/
 git clone https://github.com/ROYALBEFF/hack_and_snack.git
+mv hack_and_snack public
 ```
 
-- Go back to the root of the repository and test if everything works by generating the website
+- Test if everything works by generating the website
 ```
-cd ..
 hugo server --theme=beautifulhugo
 ```
 
