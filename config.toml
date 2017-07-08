@@ -16,9 +16,9 @@ DefaultContentLanguage = "de"
 
 [Author]
     name = "FOSS-AG"
-    email = "youremail@domain.com"
-    github = "username"
-    twitter = "username"
+    email = ""
+    github = "foss-ag"
+    twitter = "fossagtudo"
 
 [[menu.main]]
     name = "Blog"
