@@ -13,13 +13,12 @@ DefaultContentLanguage = "de"
 
 [[Params.bigimg]]
     src = "img/sphere.jpg"
-    desc = "Sphere"
 
 [Author]
-  name = "FOSS AG"
-  email = "youremail@domain.com"
-  github = "username"
-  twitter = "username"
+    name = "FOSS-AG"
+    email = "youremail@domain.com"
+    github = "username"
+    twitter = "username"
 
 [[menu.main]]
     name = "Blog"
@@ -27,6 +26,6 @@ DefaultContentLanguage = "de"
     weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "Über uns"
     url = "page/about/"
     weight = 3
