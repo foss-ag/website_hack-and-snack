@@ -16,8 +16,9 @@ DefaultContentLanguage = "de"
 
 [Author]
     name = "FOSS-AG"
-    email = ""
+    email = "info@hackandsnack.de"
     github = "foss-ag"
+    telegram = "FOSSAG"
     twitter = "fossagtudo"
 
 [[menu.main]]
