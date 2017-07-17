@@ -1,7 +1,6 @@
 ---
 title: "Hack 'n' Snack startet!"
-date: 2017-07-16T10:34:51+02:00
-draft: true
+date: 2017-07-17T10:06:47+02:00
 ---
 
 Nächsten Dienstag ist es endlich soweit: *Hack 'n' Snack* startet! Doch was ist
