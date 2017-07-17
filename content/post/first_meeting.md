@@ -16,7 +16,7 @@ Nicht technisch versiert, aber dennoch Lust dabei zu sein? Kein Problem!
 Im Vordergrund steht stets eine gemütliche Atmosphäre und ein lockerer Umgang
 miteinander, sodass auch Neulinge sich nicht unwohl fühlen müssen.
 
-Interesse geweckt? Dann kommt doch am Dienstag, den 24.07, ab 18 Uhr mal vorbei!
+Interesse geweckt? Dann kommt doch am Dienstag, den 25.07, ab 18 Uhr mal vorbei!
 Wir freuen uns auf zahlreiches Erscheinen!
 
 (Hinweis: Wir sind kein Support.)
