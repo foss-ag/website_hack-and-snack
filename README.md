@@ -3,7 +3,7 @@ This repository contains all the stuff from which hackandsnack.de is generated. 
 
 ## Preparations
 - First of all [install Hugo](https://gohugo.io/overview/installing/)
-- Check if you have installed the latest version of Hugo (v0.24.1)
+- Check if you have installed the latest version of Hugo (v0.25.1)
 ```
 hugo version
 ```
@@ -30,7 +30,8 @@ git clone https://github.com/ROYALBEFF/hack_and_snack.git
 mv hack_and_snack public
 ```
 
-- Test if everything works by generating the website
+- Test if everything works by generating the website. Note that no drafts will be shown. To 
+show draft add the `-D` option.
 ```
 hugo server --theme=beautifulhugo
 ```
