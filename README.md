@@ -15,7 +15,7 @@ git clone https://git.foss-ag.de/FOSS-AG/website_hack-and-snack.git
 
 - Change directory to cloned git repository
 ```
-cd hack_and_snack_website
+cd website_hack-and-snack
 ```
 
 - Make sure to initialise the theme submodule
@@ -30,7 +30,7 @@ git clone https://github.com/ROYALBEFF/hack_and_snack.git
 mv hack_and_snack public
 ```
 
-- Test if everything works by generating the website. Note that no drafts will be shown. To 
+- Test if everything works by generating the website. Note that no drafts will be shown. To
 show draft add the `-D` option.
 ```
 hugo server --theme=beautifulhugo
