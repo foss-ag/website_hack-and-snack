@@ -3,7 +3,7 @@ This repository contains all the stuff from which hackandsnack.de is generated. 
 
 ## Preparations
 - First of all [install Hugo](https://gohugo.io/overview/installing/)
-- Check if you have installed the latest version of Hugo (v0.25.1)
+- Check if you have installed the latest version of Hugo (v0.26)
 ```
 hugo version
 ```
@@ -18,7 +18,7 @@ git clone https://github.com/foss-ag/website_hack-and-snack.git
 cd website_hack-and-snack
 ```
 
-- Make sure to initialise the theme submodule
+- Make sure to initialise the theme submodule and check if it's the master branch.
 ```
 cd themes/beautifulhugo
 git submodule update --init --recursive
@@ -33,7 +33,7 @@ mv hack_and_snack public
 - Test if everything works by generating the website. Note that no drafts will be shown. To
 show draft add the `-D` option.
 ```
-hugo server --theme=beautifulhugo
+hugo server
 ```
 
 - Open your web browser and visit `http://localhost:1313/`. There you should see the generated website.
@@ -48,7 +48,7 @@ The Markdown file representing the post will appear in `/content/post/`. Here yo
 To check if everything looks the way you want it to be start a server on localhost using:
 
 ```
-hugo server --theme=beautifulhugo -D
+hugo server -D
 ```
 
 As you might have noticed there is a draft flag in your post header. As long as it's set to true Hugo won't consider this file unless you add the `-D` flag, which stands for `buildDrafts`. If everything is alright you can undraft your post using:
@@ -60,7 +60,7 @@ hugo undraft /post/name_of_your_post.md
 Now build the website:
 
 ```
-hugo --theme=beautifulhugo
+hugo
 ```
 
 You will find the website in the `public/` directory. As mentioned above the `public/` directory is a git repository, so you want to commit the new version.
