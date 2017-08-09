@@ -27,7 +27,7 @@ git submodule update --init --recursive
 ```
 cd ../..
 git clone https://github.com/foss-ag/website_hack-and-snack-public.git
-mv hack_and_snack public
+mv website_hack-and-snack-public public
 ```
 
 - Test if everything works by generating the website. Note that no drafts will be shown. To
