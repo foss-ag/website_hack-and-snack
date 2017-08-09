@@ -17,6 +17,7 @@ theme = "beautifulhugo"
 
 [Author]
     name = "FOSS-AG"
+    website = "https://foss-ag.de"
     email = "info@hackandsnack.de"
     github = "foss-ag"
     telegram = "FOSSAG"
