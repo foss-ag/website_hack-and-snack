@@ -8,4 +8,4 @@ draft: false
 
 Zur Zeit findet *Hack 'n' Snack* jeden letzten Dienstag im Monat ab 18 Uhr im PING Vereinsheim statt.
 
-*Hack 'n' Snack* ist ein gemeinsames Projekt der [FOSS-AG Dortmund](https://foss-ag.de) und des [PING e.V.](http://ping.de)
+*Hack 'n' Snack* ist ein Projekt der [FOSS-AG Dortmund](https://foss-ag.de).
