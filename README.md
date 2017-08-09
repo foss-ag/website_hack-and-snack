@@ -26,7 +26,8 @@ git submodule update --init --recursive
 - Go back to the root of the repository and clone the public hack_and_snack repository into it. Then rename the hack_and_snack directory to public.
 ```
 cd ../..
-git clone https://github.com/ROYALBEFF/hack_and_snack.git
+git clone
+https://github.com/foss-ag/website_hack-and-snack-public.git
 mv hack_and_snack public
 ```
 
