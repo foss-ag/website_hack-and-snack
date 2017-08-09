@@ -1,6 +1,7 @@
 baseURL = "https://hackandsnack.de/"
 title = "Hack 'n' Snack"
 DefaultContentLanguage = "de"
+theme = "beautifulhugo"
 
 [Params]
     subtitle = "CYBER CYBER CYBER"
