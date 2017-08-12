@@ -23,7 +23,7 @@ cd website_hack-and-snack
 cd themes/beautifulhugo
 git submodule update --init --recursive
 ```
-- Go back to the root of the repository and clone the public hack_and_snack repository into it. Then rename the hack_and_snack directory to public.
+- Go back to the root of the repository and clone the website_hack-and-snack-public repository into it. Then rename the website_hack-and-snack-public directory to public.
 ```
 cd ../..
 git clone https://github.com/foss-ag/website_hack-and-snack-public.git
@@ -66,14 +66,5 @@ hugo
 You will find the website in the `public/` directory. As mentioned above the `public/` directory is a git repository, so you want to commit the new version.
 
 If you are a lucky little fellow you have access to the server where the website is hosted. If not: Talk to your friendly admin.
-
-Connect to the server:
-
-```
-ssh hackandsnack@iomona.de
-```
-You will be asked for a private key and a passphrase.
-
-Once connected you `cd` into `hackandsnack.de/` and get the new version of the website via `git pull`
 
 Done! You've added a new post to hackandsnack.de. Conlaturations!
