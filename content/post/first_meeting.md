@@ -3,8 +3,8 @@ title: "Hack 'n' Snack startet!"
 date: 2017-07-17T10:06:47+02:00
 ---
 
-Am 25. Juli ist es endlich soweit: *Hack 'n' Snack* startet! Doch was ist
-das eigentlich? *Hack 'n' Snack* ist ein kooperatives Event der
+Am 25. Juli ist es endlich soweit: **Hack 'n' Snack** startet! Doch was ist
+das eigentlich? **Hack 'n' Snack** ist ein kooperatives Event der
 [FOSS-AG](https://foss-ag.de) und des [PING e.V.](http://www.ping.de), das euch
 jeden letzten Dienstag im Monat einen Ort bietet, um sich mit anderen über
 technische Themen auszutauschen, an eigenen Projekten zu arbeiten oder auch

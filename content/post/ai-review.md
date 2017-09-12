@@ -4,7 +4,7 @@ date: 2017-09-04T20:18:30+02:00
 draft: false
 ---
 
-Das letzte *Hack'n'Snack* stand unter dem Thema Künstliche Intelligenzen.
+Das letzte **Hack 'n' Snack** stand unter dem Thema Künstliche Intelligenzen.
 Im Rahmen der Veranstaltung haben wir uns aktuelle Entwicklungen in diesem
 Bereich angeschaut, wie z.B. [DeepL](https://www.deepl.com/translator),
 ein Übersetzer, der Google und Co. locker
