@@ -1,7 +1,7 @@
 ---
 title: "Dowse-Entwickler zu Besuch beim Hack 'n' Snack"
 date: 2017-09-30T14:41:50+02:00
-draft: true
+draft: false
 ---
 
 Das letzte **Hack 'n' Snack** fand unter dem großen Thema **Internet of Thing**
