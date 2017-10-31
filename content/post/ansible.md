@@ -13,11 +13,13 @@ Die Teilnehmer lernen Ansible interaktiv kennen und können das Erlernte direkt 
 Vorraussetzungen:
 
 - Eigenes Notebook mit Linux oder macOS
-    - Windowsnutzer erstellen sich bitte selber eine weitere Linux-VM, z.B. mit Ubuntu.
+  - Windowsnutzer erstellen sich bitte selber eine weitere Linux-VM, z.B. mit Ubuntu.
 - Sicherer Umgang mit der Kommandozeile, SSH und Git
 - Bitte folgende Software installieren:
   - VirtualBox 5.2
   - Python und [Ansible](http://docs.ansible.com/ansible/latest/intro_installation.html#installing-the-control-machine)
-- Zum Ausprobieren wird eine virtuelle Maschine für VirtualBox bereitgestellt. Der Link dazu wird demnächst an dieser Stelle zu finden sein.
+- Zum Ausprobieren wird eine virtuelle Maschine für VirtualBox bereitgestellt.
+
+Alle Materialien zum Workshop finden sich [hier](https://cloud.pixeltakt.net/s/bZZ5jRgRAJhfKe7).
 
 **Hack 'n' Snack** findet wie gewohnt am letzten Dienstag des Monats (31.10) ab 18 Uhr im Vereinsheim des [PING e.V.](http://www.ping.de) statt.
