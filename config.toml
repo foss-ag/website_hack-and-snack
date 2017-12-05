@@ -4,7 +4,7 @@ DefaultContentLanguage = "de"
 theme = "beautifulhugo"
 
 [Params]
-    subtitle = "CYBER CYBER CYBER"
+    subtitle = "Jeden letzten Dienstag im Monat ab 18 Uhr im PING!"
     logo = "img/avatar-icon.png"
     favicon = "img/favicon.ico"
     dateFormat = "02.01.2006"
