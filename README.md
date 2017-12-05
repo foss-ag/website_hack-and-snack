@@ -3,7 +3,7 @@ This repository contains all the stuff from which hackandsnack.de is generated. 
 
 ## Preparations
 - First of all [install Hugo](https://gohugo.io/overview/installing/)
-- Check if you have installed the latest version of Hugo (v0.26)
+- Check if you have installed the latest version of Hugo (v0.31.1)
 ```
 hugo version
 ```
