@@ -1,7 +1,7 @@
 ---
 title: "Rust Workshop"
 date: 2018-04-21T10:18:23+02:00
-draft: true
+draft: false
 ---
 
 Am kommenden Dienstag werden wir euch im Rahmen eines Workshops eine Einführung
