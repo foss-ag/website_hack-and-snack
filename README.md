@@ -3,7 +3,7 @@ This repository contains all the stuff from which hackandsnack.de is generated. 
 
 ## Preparations
 - First of all [install Hugo](https://gohugo.io/overview/installing/)
-- Check if you have installed the latest version of Hugo (v0.39)
+- Check if you have installed the latest version of Hugo (v0.40.3)
 ```
 hugo version
 ```
@@ -51,7 +51,7 @@ To check if everything looks the way you want it to be start a server on localho
 hugo server -D
 ```
 
-As you might have noticed there is a draft flag in your post header. As long as it's set to true Hugo won't consider this file unless you add the `-D` flag, which stands for `buildDrafts`. If everything is alright you can undraft your post using:
+As you might have noticed there is a draft flag in your post header. As long as it's set to true Hugo won't consider this file unless you add the `-D` flag, which stands for `buildDrafts`. If everything is alright you can undraft your post by setting draft to false.
 
 ```
 hugo undraft /post/name_of_your_post.md
