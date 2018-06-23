@@ -20,5 +20,5 @@ Wir suchen ebenfalls immer Moderatoren und Fakten-Checker zu jedem Thema. Aufgab
 ### Wann und Wo nochmal?
 
 - Ort: Ping Vereinsheim, Zum Nubbental 11, 44227 Dortmund
-- Start: 26. Juli, Warmup und Einteilung ab 18:00 Uhr, Diskussionsbeginn um ~18:15
+- Start: 26. Juni, Warmup und Einteilung ab 18:00 Uhr, Diskussionsbeginn um ~18:15
 - Im Laufe des Abends wird die moderierte Diskussion beendet. Ab dann ist es ein offener Diskussionsabend.
