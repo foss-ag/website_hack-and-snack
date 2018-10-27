@@ -1,0 +1,17 @@
+# Using the container-based setup
+language: shell
+
+script:
+  - hugo
+
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: deploy.sh
+  on:
+    branch: public
+
+addons:
+  apt:
+    packages: [hugo]
+
