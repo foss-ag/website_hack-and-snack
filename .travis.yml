@@ -1,17 +1,18 @@
 # Using the container-based setup
 language: shell
 
+env:
+  - HUGO_VER="0.49.2"
+before_script:
+  - wget "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_${HUGO_VER}_Linux-64bit.tar.gz"
+  - tar -xvzf hugo_${HUGO_VER}_Linux-64bit.tar.gz
+
 script:
-  - hugo
+  - ./hugo
 
 deploy:
   skip_cleanup: true
   provider: script
-  script: deploy.sh
+  script: ./deploy.sh
   on:
     branch: public
-
-addons:
-  apt:
-    packages: [hugo]
-
